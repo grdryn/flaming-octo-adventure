@@ -1,2 +1,3 @@
 This is a file in master
 addition to file2
+bo bo bo
